@@ -1,0 +1,22 @@
+{
+  "wheel_id": 781,
+  "structure": "umbrella",
+  "slug": "adelaidetilingwaterproofing-150",
+  "project": "bathroom-tiling-adelaide-red-flags-f26d7e6d51b5b4ea2ef012c01f8c",
+  "parent_t1_ref": "adelaidetilingwaterproofing-006",
+  "node_role": "buffer",
+  "money_target": "adelaidetilingwaterproofing.com.au",
+  "primary_kw": "bathroom tiling adelaide red flags",
+  "intended_url": "http://bathroom-tiling-adelaide-red-flags-f26d7e6d51b5b4ea2ef012c01f8c.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "835bf7b1cf4d866e",
+  "links": [
+    {
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/bathroom-tiling-adelaide/",
+      "anchor": "the bathroom tiling adelaide overview",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
